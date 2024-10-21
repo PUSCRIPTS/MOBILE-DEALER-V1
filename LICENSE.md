@@ -1,4 +1,4 @@
-# MOBILE-DEALER-V1 Script License Agreement (Must Read!)
+# MOBILE-DEALER-V1 Script License Agreement
 
 **Effective Date:** October 21, 2024  
 **Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
