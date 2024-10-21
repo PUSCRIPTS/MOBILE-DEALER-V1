@@ -1,4 +1,4 @@
-# [MOBILE-DEALER-V1 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/C-BRING-V1/tree/main?tab=License-1-ov-file)
+# MOBILE-DEALER-V1 Script License Agreement (Must Read!)
 
 **Effective Date:** October 21, 2024  
 **Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
