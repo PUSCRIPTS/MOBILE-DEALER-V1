@@ -1,4 +1,4 @@
-# MOBILE-DEALER-V1 Script
+# [MOBILE-DEALER-V1 Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/MOBILE-DEALER-V1/tree/main?tab=License-1-ov-file)
 
 ## Description
 MOBILE-DEALER-V1 is a free script designed for Roblox that provides a powerful in-game menu where users can buy any item. It works across all devices and executors, making it versatile and easy to use.
