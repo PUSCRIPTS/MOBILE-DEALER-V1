@@ -21,8 +21,8 @@ To use the MOBILE-DEALER-V1 Script:
 ## Support
 For support inquiries, please contact me via Discord:
 - **Display Name**: PinguinDEV
-- **Username**: 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C)
+- **Username**: mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev)
 
 ## Updates
 Check Discord for updates regarding script status (online, updating, or patched).
