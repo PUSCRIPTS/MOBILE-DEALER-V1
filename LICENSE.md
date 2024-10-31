@@ -17,8 +17,8 @@ Get the script for free on Discord, then use any executor (PC or mobile) to run 
 ## 4. Support
 For any support issues, contact me through Discord:
 - **Display Name**: PinguinDEV
-- **Username**: 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C).
+- **Username**: mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev).
 
 ## 5. Refund Policy
 - **No Refunds:** Once accessed, there are no refunds. If you find any bugs or issues, you must notify the owner/developer, PinguinDEV.
@@ -43,8 +43,8 @@ If any unauthorized use or distribution of the script occurs, PinguinDEV reserve
 ## 10. Contact Information
 Users can only contact me through my Discord:
 - **Display Name**: PinguinDEV
-- **Username**: 4d04
-- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C).
+- **Username**: mxhakon
+- [PinguinDEV Discord](https://www.discord.gg/pinguindev).
 
 ## 11. Video Creation
 You are permitted to create videos showcasing the use of this script, but you must credit PinguinDEV at the end or within the video, including the YouTube channel link: [PinguinDEV YouTube](https://www.youtube.com/@PinguinDevXYZ).
